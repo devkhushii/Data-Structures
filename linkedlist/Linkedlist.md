@@ -8,27 +8,27 @@
 
 | Section | Topic |
 |---------|-------|
-| 1 | Linked List Fundamentals |
-| 2 | Node Structure |
-| 3 | Types of Linked Lists |
-| 4 | Linked List Memory Model |
-| 5 | Complexity Analysis |
-| 6 | Basic Operations |
-| 7 | Reversal Techniques |
-| 8 | Fast and Slow Pointer Pattern |
-| 9 | Important Linked List Patterns |
-| 10 | Cycle Problems |
-| 11 | Merging Problems |
-| 12 | Important Linked List Algorithms |
-| 13 | Sorting Linked Lists |
-| 14 | Doubly Linked List Mastery |
-| 15 | Circular Linked List Mastery |
-| 16 | Interview Framework |
-| 17 | Common Tricks |
-| 18 | Common Mistakes |
-| 19 | Complete Question List |
-| 20 | Revision Cheat Sheet |
-| 21 | Final Roadmap |
+| 1 | [Linked List Fundamentals](#section-1-linked-list-fundamentals) |
+| 2 | [Node Structure](#section-2-node-structure) |
+| 3 | [Types of Linked Lists](#section-3-types-of-linked-lists) |
+| 4 | [Linked List Memory Model](#section-4-linked-list-memory-model) |
+| 5 | [Complexity Analysis](#section-5-complexity-analysis) |
+| 6 | [Basic Operations](#section-6-basic-operations) |
+| 7 | [Reversal Techniques](#section-7-reversal-techniques) |
+| 8 | [Fast and Slow Pointer Pattern](#section-8-fast-and-slow-pointer-pattern) |
+| 9 | [Important Linked List Patterns](#section-9-important-linked-list-patterns) |
+| 10 | [Cycle Problems](#section-10-cycle-problems) |
+| 11 | [Merging Problems](#section-11-merging-problems) |
+| 12 | [Important Linked List Algorithms](#section-12-important-linked-list-algorithms) |
+| 13 | [Sorting Linked Lists](#section-13-sorting-linked-lists) |
+| 14 | [Doubly Linked List Mastery](#section-14-doubly-linked-list-mastery) |
+| 15 | [Circular Linked List Mastery](#section-15-circular-linked-list-mastery) |
+| 16 | [Interview Framework](#section-16-interview-framework) |
+| 17 | [Common Tricks](#section-17-common-tricks) |
+| 18 | [Common Mistakes](#section-18-common-mistakes) |
+| 19 | [Complete Linked List Question List](#section-19-complete-linked-list-question-list) |
+| 20 | [Revision Cheat Sheet](#section-20-revision-cheat-sheet) |
+| 21 | [Final Roadmap](#section-21-final-roadmap) |
 
 ---
 
