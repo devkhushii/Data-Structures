@@ -28,7 +28,7 @@
 | 18 | [Common Mistakes](#section-18-common-mistakes) |
 | 19 | [Complete Linked List Question List](#section-19-complete-linked-list-question-list) |
 | 20 | [Revision Cheat Sheet](#section-20-revision-cheat-sheet) |
-| 21 | [Final Roadmap](#section-21-final-roadmap) |
+| 21 | [FINAL LINKED LIST ROADMAP](#section-21-final-linked-list-roadmap)) |
 
 ---
 
