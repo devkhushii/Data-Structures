@@ -1,0 +1,55 @@
+// Given an array nums of size n, return the majority element.
+
+// The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array.
+
+ 
+
+// Example 1:
+
+// Input: nums = [3,2,3]
+// Output: 3
+// Example 2:
+
+// Input: nums = [2,2,1,1,1,2,2]
+// Output: 2
+
+#include <bits/stdc++.h>
+using namespace std;
+int majorityElement(vector<int>& nums) {
+    int count=0;
+    int candidate=0;
+    for(int num:nums){
+        if(count==0){
+            candidate=num;
+        }
+        if (num==candidate){
+            count++;
+        }else{
+            count--;
+    }
+   }
+ return candidate;
+}
+
+int majorityElement1(vector<int>& nums){
+   int n = nums.size();
+   for(int val:nums){
+       int count=0;
+       for(int num:nums){
+           if(num==val){
+               count++;
+           }
+       }
+       if(count>n/2){
+           return val;
+       }
+   }
+   return -1; 
+}
+
+int main(){
+    vector<int> nums = {3,2,3};
+    int result = majorityElement(nums);
+    cout<<result;
+    return 0;
+}
