@@ -12,26 +12,26 @@
 
 | Section | Topic |
 |---------|-------|
-| 1 | Stack Fundamentals |
-| 2 | Stack Implementation |
-| 3 | Stack Operations |
-| 4 | Stack Memory Model |
-| 5 | Complexity Analysis |
-| 6 | Recursion and Stack |
-| 7 | Important Stack Patterns |
-| 8 | Monotonic Stack Mastery |
-| 9 | Expression Problems |
-| 10 | Balanced Parentheses Mastery |
-| 11 | Important Stack Algorithms |
-| 12 | Special Stacks |
-| 13 | Monotonic Stack Interview Framework |
-| 14 | Stack in Arrays and Strings |
-| 15 | Interview Framework |
-| 16 | Common Tricks |
-| 17 | Common Mistakes |
-| 18 | Complete Stack Question List |
-| 19 | Revision Cheat Sheet |
-| 20 | Final Stack Roadmap |
+| 1 | [Stack Fundamentals](#section-1-stack-fundamentals) |
+| 2 | [Stack Implementation](#section-2-stack-implementation) |
+| 3 | [Stack Operations](#section-3-stack-operations) |
+| 4 | [Stack Memory Model](#section-4-stack-memory-model) |
+| 5 | [Complexity Analysis](#section-5-complexity-analysis) |
+| 6 | [Recursion and Stack](#section-6-recursion-and-stack) |
+| 7 | [Important Stack Patterns](#section-7-important-stack-patterns) |
+| 8 | [Monotonic Stack Mastery](#section-8-monotonic-stack-mastery) |
+| 9 | [Expression Problems](#section-9-expression-problems)|
+| 10 | [Balanced Parentheses Mastery](#section-10-balanced-parentheses-mastery) |
+| 11 | [Important Stack Algorithms](#section-11-important-stack-algorithms) |
+| 12 | [Special Stacks](#section-12-special-stacks) |
+| 13 | [Monotonic Stack Interview Framework](#section-13-monotonic-stack-interview-framework) |
+| 14 | [Stack in Arrays and Strings](#section-14-stack-in-arrays-and-strings) |
+| 15 | [Interview Framework](#section-15-interview-framework) |
+| 16 | [Common Tricks](#section-16-common-tricks) |
+| 17 | [Common Mistakes](#section-17-common-mistakes) |
+| 18 | [Complete Stack Question List](#section-18-complete-stack-question-list) |
+| 19 | [Revision Cheat Sheet](#section-19-revision-cheat-sheet) |
+| 20 | [Final Stack Roadmap](#section-20-final-stack-roadmap) |
 
 ---
 
